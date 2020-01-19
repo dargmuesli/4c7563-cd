@@ -1,0 +1,13 @@
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background: black;
+    font-size: xxx-large;
+}
+
+iframe {
+    display: none;
+}
